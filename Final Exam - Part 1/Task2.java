@@ -1,3 +1,2 @@
-class Task2 {
-    // Task 2 code goes here
-}
+// Task 2
+// Your code here
